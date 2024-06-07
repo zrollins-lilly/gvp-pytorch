@@ -22,7 +22,6 @@ setup(
         'torch_cluster',
         'tqdm',
         'numpy',
-        'sklearn',
         'atom3d'
     ]
 )
